@@ -18,6 +18,8 @@ She has proposed running different types ML techniques on the data including
 * Sentiment Analysis
 * Textual Analysis
 
+Two datasets of ~160K tweets each. First is related to public education in Alberta. Big spikes recently with the government's announcement that schools will be fully re-opened with few restrictions and no additional funding for covid safeguards. Second dataset relates to the ongoing and quite vicious twitter war between our provincial government and the province's physicians. Lots of spikes and, just today, the Alberta Medical Association announced the results of their members vote on confidence in the provincial minister of health. 97% have no faith in the minister.
+
 
 ## Corporate Finance
 
